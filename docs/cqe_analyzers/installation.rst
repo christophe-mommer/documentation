@@ -2,12 +2,13 @@ Installation
 ============
 Généralités
 ^^^^^^^^^^^
-CQELight Analyzers est une collection d'outils qui analysent le code source produit avec le framework d'entreprise CQELight et fourni un ensemble de résultats. Ces outils sont fournis sous forme de dotnet tool. 
+CQELight Analyzers est une collection d'outils qui analysent le code source produit avec le framework d'entreprise `CQELight<https://www.hybrid-technologies-solutions.com/Product/CQELight>`_ et fourni un ensemble de résultats. Ces outils sont fournis sous forme de dotnet tool. 
 
 Analyzers
 ^^^^^^^^^
 Messaging Analyzers
 -------------------
+
 Ces analyzers vont analyser le code de messaging de votre application pour vérifier un ensemble de choses (par exemple s'il existe une ou plusieurs boucle de message dans votre code). Cette suite d'analyzer est composé de trois outils :
  - CQELight_CodeRewriter
  - CQELight_MapGenerator
