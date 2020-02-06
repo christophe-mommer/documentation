@@ -37,7 +37,7 @@ Par exemple, pour installer le premier, CQELight_CodeRewriter, il faudra faire l
 
 Installation de la licence
 """"""""""""""""""""""""""
-La licence est un fichier .lic qui doit s'appeler `license-CQELight_Analyzers_Collection-app_lNW411PSRQr1.lic`. Il est impératif de ne pas modifier ce nom, car les outils iront chercher exactement ce dernier.
+La version de démo est gratuite et ne nécessite aucune licence. Si vous avez acheté la version commerciale complète, vous avez reçu un mail avec votre fichier de licence. La licence est un fichier .lic qui doit s'appeler `license-CQELight_Analyzers_Collection-app_lNW411PSRQr1.lic`. Il est impératif de ne pas modifier ce nom, car les outils iront chercher exactement ce dernier.
 On peut préciser au lancement de l'outil le chemin vers la licence grâce à l'option "---license_path:[PATH]". A défaut de présence de cette option, l'outil ira chercher la licence dans le répertoire local, ou s'il ne la trouve pas :
 
  - Dans le répertoire "%APPDATA%\\CQELight\\licenses" sous Windows
